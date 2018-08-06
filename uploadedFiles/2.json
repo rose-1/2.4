@@ -1,0 +1,45 @@
+{
+  "testName": "Тест на знание таблицы умножения",
+  "questions": {
+    "question1": {
+      "question": "Сколько будет 5 * 7 ?",
+      "type": "single",
+      "answers": [
+        "35",
+        "25",
+        "45"
+      ],
+      "rightAnswers": [
+        "35"
+      ]
+    },
+    "question2": {
+      "question": "Выберите все неправильные варианты результата перемножения 6 * 9.",
+      "type": "multi",
+      "answers": [
+        "46",
+        "54",
+        "97",
+        "16"
+      ],
+      "rightAnswers": [
+        "46",
+        "97",
+        "16"
+      ]
+    },
+    "question3": {
+      "question": "Сколько будет 4 * 8 ?",
+      "type": "single",
+      "answers": [
+        "16",
+        "48",
+        "32",
+        "24"
+      ],
+      "rightAnswers": [
+        "24"
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "testName": "Тест на знание формы глагола to be в английском языке",
+  "questions": {
+    "question1": {
+      "question": "Where ... you from?",
+      "type": "single",
+      "answers": [
+        "am",
+        "is",
+        "are"
+      ],
+      "rightAnswers": [
+        "are"
+      ]
+    },
+    "question2": {
+      "question": "How old ... you?",
+      "type": "single",
+      "answers": [
+        "am",
+        "is",
+        "are"
+      ],
+      "rightAnswers": [
+        "are"
+      ]
+    },
+    "question3": {
+      "question": "Какие глаголы не подходят для фразы 'The dog ... in the garden'?",
+      "type": "multi",
+      "answers": [
+        "am",
+        "is",
+        "are"
+      ],
+      "rightAnswers": [
+        "am",
+        "are"
+      ]
+    }
+  }
+}
